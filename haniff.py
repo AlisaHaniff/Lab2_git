@@ -7,4 +7,4 @@ username = input("Enter a username: ")
 print(f"Welcome to the Git commands")
 
 num = 8
-print(f"THe number doubled)")
+print(f"Double of number {num} is {num*2}")
