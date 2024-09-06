@@ -5,3 +5,6 @@ Sept 6, 2024
 """"
 username = input("Enter a username: ")
 print(f"Welcome to the Git commands")
+
+num = 8
+print(f"THe number doubled)")
